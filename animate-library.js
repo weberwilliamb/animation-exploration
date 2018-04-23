@@ -1,3 +1,3 @@
 /* ****************************************** */
-/* Progress Circle Animation using JS/jQuery  */ 
+/* Progress Circle Animation w/jQuery Library */ 
 /*      Add jsFiddle JavaScript code here     */
