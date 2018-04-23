@@ -1,0 +1,33 @@
+section{padding:10px 20px;}
+section:nth-of-type(2n){background-color:#eee;}
+/* ************************************* */
+/* Progress Bar Animation using CSS only */
+/*        Edit the Animation code        */
+ #wrapper{
+    width:200px;height:25px;
+    position:relative;
+    border:solid thin black;}
+/* Animated Bar */
+ #wrapper>div{
+    height:100%;
+    background-color:green;
+    animation-name:loading;
+    }
+/* Animation */
+  @keyframes loading {
+    from {  }
+    to   {  }
+    }
+/* **************************************** */
+/* Progress Circle Animation using CSS only */ 
+/*         Add your CSS code here           */
+
+
+/* ***************************************** */
+/* Progress Circle Animation using JS/jQuery */ 
+/*         Add your CSS code here            */
+
+
+/* ****************************************** */
+/* Progress Circle Animation w/jQuery Library */ 
+/*         Add your CSS code here             */
