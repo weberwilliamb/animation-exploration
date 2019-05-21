@@ -12,22 +12,24 @@ section:nth-of-type(2n){background-color:#eee;}
     height:100%;
     background-color:green;
     animation-name:loading;
+    animation-timing-function: linear;
+    animation-duration: 3s;
     }
 /* Animation */
   @keyframes loading {
-    from {  }
-    to   {  }
+    from { 0%; }
+    to   { 100%; }
     }
 /* **************************************** */
-/* Progress Circle Animation using CSS only */ 
+/* Progress Circle Animation using CSS only */
 /*         Add jsFiddle CSS code here       */
 
 
 /* ***************************************** */
-/* Progress Circle Animation using JS/jQuery */ 
+/* Progress Circle Animation using JS/jQuery */
 /*         Add jsFiddle CSS code here        */
 
 
 /* ****************************************** */
-/* Progress Circle Animation w/jQuery Library */ 
+/* Progress Circle Animation w/jQuery Library */
 /*         Add jsFiddle CSS code here         */
